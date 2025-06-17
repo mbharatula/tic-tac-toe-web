@@ -12,6 +12,9 @@ This is a simple yet engaging implementation of the classic Tic-Tac-Toe game for
 - CSS
 - JavaScript
 
+### Test the Site
+- [Live Site](https://tictactoe-mbharatula.netlify.app/)
+
 This game is still being Developed Completely, for Now two player is available and single player being developed.
 
 Feel free to explore, play, and contribute!
